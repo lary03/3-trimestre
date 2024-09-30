@@ -33,6 +33,6 @@ nav a {
 }
 nav a:hover{
     text-decoration:underline;
-    transform: ;
-    transition: ;
+    transform:scale(0,90);
+    transition:transform ;
 }
