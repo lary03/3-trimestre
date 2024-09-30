@@ -16,5 +16,6 @@ header{ background-color: var(--primary-color);
 }
 h1 {
     font: size 1rem;
-    color: var(--bg-color)
+    color: var(--bg-color);
+    font-weight:700;
 }
