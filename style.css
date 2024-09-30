@@ -6,6 +6,6 @@
 --font:"--font:"Nunito Sans" ,sans-serif;
 }
 body { background-color: var(--bg-color);
-    color:var(--primary-color);
+    color:var(--secondary-color);
     font-family:var(--font);
 }
