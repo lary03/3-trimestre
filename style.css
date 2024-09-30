@@ -3,7 +3,7 @@
     --bg-color: #03001C;
     --primary-color: #5B8FB9;
     --secondary-color: #B6EADA;
---font:"--font:"Nunito Sans" ,sans-serif;
+--font:"Nunito Sans",sans-serif;
 }
 body { background-color: var(--bg-color);
     color:var(--secondary-color);
@@ -14,3 +14,4 @@ body { background-color: var(--bg-color);
 header{ background-color: var(--primary-color);
     text-align:center;
 }
+h1
